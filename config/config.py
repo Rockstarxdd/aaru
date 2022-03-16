@@ -24,7 +24,7 @@ API_HASH = getenv("API_HASH", " 5669a6e027e6b2e80a4e0e86c162b1aa")
 BOT_TOKEN = getenv("BOT_TOKEN","5283711800:AAHn9I6fjtua8N235l10AoMv76fEvZEOC08")
 
 # Database to save your chats and stats... Get MongoDB:-  https://telegra.ph/How-To-get-Mongodb-URI-04-06
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://kaneki2:kaneki2@cluster0.tcsp2.mongodb.net/kaneki2?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://stargirlxd:subhixd07@cluster0.96fqb.mongodb.net/stargirlxd?retryWrites=true&w=majority")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -135,7 +135,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "AQATV9AJeSql3McEgldynxuytXfVhE_WOWD1VlWZKVkqeB7WTUTli1jYcjeXYhX-MY2wTDESHzAwVlMSR9kPdSfxUKXpVfqE6AHaIRCoVIPPIDQvN65q8oIPWqiy3lNO7EGDXPbk2ZiB5E9CLVlf1qBxWck2YR134xBu3JXPHr1rmi7FIJFztsrm6Q3J0zQowL0tG2Wwk3Ir0XKESkbY2Pc8SWy4jODpGfltIRfNd65dPrQZJPwlFzTGQHDj91tOR2V8SD681bTauVs5Cbi7W1N21LgBEPFCImFg77uDa1wN1iuG31gbLM442hDzJ33ZI-yLQZ_P0BoH87CrKJbpbd3yAAAAATafBcwA")
+STRING1 = getenv("STRING_SESSION", "AQCwEXu1A0S6xuemg3DfqhtNqS01i31v9jDAU05461RO4rrTQJZUfW3hOw1do5vbBIXdFSFxK5DamYA_UbvmIzn7JnF2N6lMEmLIPXIsv15wtJlXaBmijg74HZCW1D9iwcqrB-tXkCGx-5mDiaVahZlg6F0K_KPsa7Nbe1mXSebzPdLO1HPcWSZnqxbUB-MvFqig48NYb-vcU2WlSlCiengNKads3RVaRpbXyoCY1I8-OIhdrPGZAiljt4Y4dp_ZMGh-1Al5WzLILp5VpvNHw1bhU-gi2V5PbsYwDNFNetVgcIdIYO9YIkJ1KvSZ7yam3989NApOLUM5HCYl1wxPFsYFAAAAATafBcwA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
